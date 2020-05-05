@@ -1,0 +1,28 @@
+README
+
+__________________________________
+1. Generate a New Ionic Project
+
+$ ionic start ionic-angular-notepad blank --type=angular
+ionic-angular-notepad = app name
+blank = template
+--type = to create an Ionic/Angular project
+
+$ cd ionic-angular-notepad
+___________________________________________________________
+
+2. Create the Required Pages/Services
+
+> 2 pg (Home/Details)
+> making use of a service/provider (
+
+*generate the detail page
+$ ionic g page Detail
+
+*generate the service
+$ ionic g service services/Notes
+> We use services/Notes instead of just Notes is that we want all of our services to be within a services folder 
+> Default they will just be created in the project root directory
+
+
+
