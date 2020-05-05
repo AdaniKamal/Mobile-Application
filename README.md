@@ -1,4 +1,3 @@
-# Mobile-Application
 Mobile Application 
 
 #Run in CMD
@@ -17,4 +16,3 @@ $ ionic serve
 To link with existing Ionic app
 Run ionic link in the directory of that app to connect it to Ionic Appflow:
 $ ionic link
-
